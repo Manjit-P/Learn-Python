@@ -1,10 +1,3 @@
 .venv
 .pytest_cache
 __pycache__
-alice.txt
-guest.txt
-pi_digits.txt
-pi_million_digits.txt
-programming.txt
-number.json
-username.json
