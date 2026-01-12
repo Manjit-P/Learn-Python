@@ -1,4 +1,4 @@
-This repo contains all the files I created during my python journey.
+This repo contains all the files I created whilst learning python and ML related library.
 
 Books used:
 - Python Crash Course 
